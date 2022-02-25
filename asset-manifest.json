@@ -186,10 +186,10 @@
     "static/media/zu-ZA.md": "/static/media/zu-ZA.ef5e1346.md"
   },
   "entrypoints": [
-    "cboard/static/js/runtime-main.860f3ccf.js",
-    "cboard/static/css/6.0444c8c8.chunk.css",
-    "cboard/static/js/6.e3d07166.chunk.js",
-    "cboard/static/css/main.850298a4.chunk.css",
-    "/static/js/main.e527b33d.chunk.js"
+    "static/js/runtime-main.860f3ccf.js",
+    "static/css/6.0444c8c8.chunk.css",
+    "static/js/6.e3d07166.chunk.js",
+    "static/css/main.850298a4.chunk.css",
+    "static/js/main.e527b33d.chunk.js"
   ]
 }
