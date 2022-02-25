@@ -513,6 +513,7 @@
     }
   ],
   "start_url": "https://marcotchella.github.io/cboard/",
+  "homepage": "https://marcotchella.github.io/cboard/",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
