@@ -512,8 +512,7 @@
       "sizes": "16x16"
     }
   ],
-  "start_url": "https://marcotchella.github.io/cboard/",
-  "homepage": "https://marcotchella.github.io/cboard/",
+  "start_url": "https://app.cboard.io/",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
